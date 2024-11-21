@@ -6,6 +6,7 @@ Este projeto permite que os usuários descubram seu signo zodiacal com base na d
 
 ## Estrutura do Projeto
 
+```plaintext
 Project/
 ├── assets/
 │   ├── CSS/
@@ -19,6 +20,7 @@ Project/
 ├── show_zodiac_sign.php
 ├── signos.xml
 └── sobre.php
+
 
 ## Descrição dos Arquivos
 
