@@ -20,7 +20,7 @@ Project/
 ├── show_zodiac_sign.php
 ├── signos.xml
 └── sobre.php
-
+```
 
 ## Descrição dos Arquivos
 
