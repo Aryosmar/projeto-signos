@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <signoNome>Áries</signoNome>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <descricao>Pessoas do signo de Áries são corajosas e determinadas.</descricao>
+    </signo>
+    <signo>
+        <signoNome>Touro</signoNome>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <descricao>Pessoas do signo de Touro são práticas e confiáveis.</descricao>
+    </signo>
+    <signo>
+        <signoNome>Gêmeos</signoNome>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <descricao>Pessoas do signo de Gêmeos são comunicativas e adaptáveis.</descricao>
+    </signo>
+    <signo>
+        <signoNome>Câncer</signoNome>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <descricao>Pessoas do signo de Câncer são emocionais e protetoras.</descricao>
+    </signo>
+    <signo>
+        <signoNome>Leão</signoNome>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <descricao>Pessoas do signo de Leão são confiantes e generosas.</descricao>
+    </signo>
+    <signo>
+        <signoNome>Virgem</signoNome>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <descricao>Pessoas do signo de Virgem são detalhistas e organizadas.</descricao>
+    </signo>
+    <signo>
+        <signoNome>Libra</signoNome>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <descricao>Pessoas do signo de Libra são equilibradas e diplomáticas.</descricao>
+    </signo>
+    <signo>
+        <signoNome>Escorpião</signoNome>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <descricao>Pessoas do signo de Escorpião são intensas e misteriosas.</descricao>
+    </signo>
+    <signo>
+        <signoNome>Sagitário</signoNome>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <descricao>Pessoas do signo de Sagitário são otimistas e aventureiras.</descricao>
+    </signo>
+    <signo>
+        <signoNome>Capricórnio</signoNome>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>19/01</dataFim>
+        <descricao>Pessoas do signo de Capricórnio são disciplinadas e responsáveis.</descricao>
+    </signo>
+    <signo>
+        <signoNome>Aquário</signoNome>
+        <dataInicio>20/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <descricao>Pessoas do signo de Aquário são independentes e originais.</descricao>
+    </signo>
+    <signo>
+        <signoNome>Peixes</signoNome>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <descricao>Pessoas do signo de Peixes são intuitivas e sensíveis.</descricao>
+    </signo>
+</signos>
