@@ -35,9 +35,9 @@
     <div class="container mt-5">
         <h2>Contato</h2>
         <p>Para mais informações, entre em contato com:</p>
-        <p><strong>Oliosvaldo Alves Almeida</strong></p>
-        <p>Email: <a href="mailto:oliosvaldo48@gmail.com">oliosvaldo48@gmail.com</a></p>
-        <p>Telefone: <a href="tel:+558381767405">+55 83 8176-7405</a></p>
+        <p><strong>Aryosmar Felipe Almeida</stron></p>
+        <p>Email: <a href="aryfelipealmeida95@gmail.com">aryfelipealmeida95@gmail.com</a></p>
+        <p>Telefone: <a href="tel:+558381612637">+55 83 81612637</a></p>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
